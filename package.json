@@ -1,0 +1,11 @@
+{
+  "name": "Http",
+  "version": "1.0.0",
+  "description": "learning about nodejs",
+  "main": "index.js",
+  "author": "Harrison",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
